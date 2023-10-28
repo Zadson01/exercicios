@@ -1,0 +1,19 @@
+#titulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#front{
+    padding-right: 10%;
+}
+#back{
+    padding-right: 20%;
+}
